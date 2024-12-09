@@ -155,10 +155,36 @@ sections:
         type: FeaturedItem
       - title: Mobile Apps
         subtitle: The world is yours
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          A mobile app is a software application designed to run on smartphones
+          and tablets. It offers a personalized user experience, tailored to
+          mobile devices.
+
+
+          **Why Choose a Mobile App?**
+
+
+          *   **Portability:** Accessible anytime, anywhere.
+
+
+          *   **Engagement:** Direct connection with your audience.
+
+
+          *   **Brand Awareness:** Enhance brand visibility and recognition.
+
+
+          **Pricing**
+
+
+          The cost of a mobile app depends on factors like platform (iOS,
+          Android, or both), complexity, features, and design. Let's discuss
+          your project to get a tailored quote.
+
+
+          **Ready to take your business mobile?** Contact us today.
+
+
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
