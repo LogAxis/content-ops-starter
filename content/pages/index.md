@@ -105,10 +105,35 @@ sections:
               borderRadius: x-large
       - title: Web Applications
         subtitle: Website where you can perform actions on
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          A web application is like a dynamic online tool. It can change and
+          update itself, providing interactive features like user accounts,
+          databases, and real-time content.
+
+
+          **Why Choose a Web Application?**
+
+
+          *   **Flexibility:** Highly customizable.
+
+
+          *   **Interactivity:** Engage users with dynamic features.
+
+
+          *   **Scalability:** Grow with your business needs.
+
+
+          **Pricing**
+
+
+          The cost of a web application depends on its specific functionality
+          and complexity. Let's discuss your project to get a tailored quote.
+
+
+          **Ready to build your web application?** Contact us today.
+
+
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
