@@ -246,7 +246,7 @@ sections:
       text: Google Search Optimizations
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Be the top search in your field
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
