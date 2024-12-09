@@ -57,7 +57,7 @@ sections:
       - type: FeaturedItem
         title: Static Websites
         subtitle: Basic informative site
-        text: >+
+        text: >
           A static website is like a digital brochure. It has fixed pages that
           don't change automatically. Perfect for simple, informational sites.
 
@@ -77,13 +77,10 @@ sections:
           **Starting Price:**
 
 
-          A basic static website starts at \[Your Starting Price].
+          A basic static website starts at R300.
 
 
           **Ready to get started?** Let's discuss your project.
-
-
-
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
