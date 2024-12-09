@@ -283,11 +283,16 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: What we provide
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      **Need a digital solution?** We offer a range of services to help you
+      achieve your online goals. From stunning website design and development to
+      powerful mobile apps and effective SEO strategies, we've got you covered.
+
+
+      **Contact us today to discuss your project.**
+
+
+
     media:
       fields:
         - name: name
