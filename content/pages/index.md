@@ -253,13 +253,7 @@ sections:
       website's content<sup> 1 </sup> and structure, you can attract more
       organic traffic
 
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
+    actions: []
     media:
       url: /images/hero3.svg
       altText: Dope design preview
