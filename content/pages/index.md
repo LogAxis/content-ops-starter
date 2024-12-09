@@ -247,9 +247,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Be the top search in your field
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      SEO, or Search Engine Optimization, is the process of improving your
+      website's visibility on search engines like Google. By optimizing your
+      website's content<sup> 1 </sup> and structure, you can attract more
+      organic traffic
+
     actions:
       - label: Get started
         url: /
