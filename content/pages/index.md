@@ -243,7 +243,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Business Consulting
+      text: Google Search Optimizations
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
