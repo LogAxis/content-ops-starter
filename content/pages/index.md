@@ -57,10 +57,33 @@ sections:
       - type: FeaturedItem
         title: Static Websites
         subtitle: Basic informative site
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          A static website is like a digital brochure. It has fixed pages that
+          don't change automatically. Perfect for simple, informational sites.
+
+
+          **Benefits:**
+
+
+          *   **Speed:** Loads quickly.
+
+
+          *   **Security:** Fewer vulnerabilities.
+
+
+          *   **Cost-Effective:** Affordable.
+
+
+          **Starting Price:**
+
+
+          A basic static website starts at \[Your Starting Price].
+
+
+          **Ready to get started?** Let's discuss your project.
+
+
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
