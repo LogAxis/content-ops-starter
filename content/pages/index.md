@@ -84,7 +84,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Web Applications
-        subtitle: The Job Stuff
+        subtitle: Website where you can perform actions on
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
