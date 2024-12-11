@@ -25,7 +25,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/G image.png
+      url: /images/G.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
