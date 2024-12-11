@@ -7,7 +7,7 @@ sections:
       text: Here to build your web desires to life
       color: text-dark
       type: TitleBlock
-    subtitle: Web development
+    subtitle: Web development.
     text: >+
 
       We turn your website ideas into reality. Our team of skilled designers and
