@@ -265,16 +265,25 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: What we provide
-    text: >+
+    text: >
       **Need a digital solution?** We offer a range of services to help you
       achieve your online goals. From stunning website design and development to
       powerful mobile apps and effective SEO strategies, we've got you covered.
 
 
-      **Contact us today to discuss your project.**
+      **Contact us today to discuss your project.** 
 
 
+      Email
 
+
+      **` Logaxisp@gmail.com`**
+
+
+      Whatsapp
+
+
+      +27 65 883 5102
     badge:
       label: Contact Us
       color: text-primary
