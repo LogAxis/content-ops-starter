@@ -7,15 +7,15 @@
     "text": "Logaxis Design\n",
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/LogAxis",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
             "altText": "Twitter link",
             "url": "https://twitter.com/netlify",
             "icon": "twitter",
+            "type": "Social"
+        },
+        {
+            "altText": "GitHub link",
+            "url": "https://github.com/LogAxis",
+            "icon": "github",
             "type": "Social"
         },
         {
