@@ -264,7 +264,7 @@ sections:
       text: Consultation on our services
       color: text-dark
       type: TitleBlock
-    subtitle: What we provide
+    subtitle: "Email :Logaxisp@gmail.com\_\_Whatsapp:\_+27 65 883 5102"
     text: >
       **Need a digital solution?** We offer a range of services to help you
       achieve your online goals. From stunning website design and development to
